@@ -130,9 +130,9 @@ $$Av = \lambda v \implies \text{v is an eigenvector of the matrix A and } \lambd
 
 We know that we can interpret a matrix as a transformation $T$ on a vector. So we can rewrite the above as:
 
-$$T(v) = \lambda v \implies \text{v is an eigenvector of the transformation T and doesn't change direction, just scale and } \lambda \text{ is an eigenvalue of the the transformation T indicating the change in scale of v}$$
+$$T(v) = \lambda v \implies \text{v is an eigenvector of the transformation T and doesn't change direction (apart from reversing; it could reverse direction since that's just negative scaling), just scale and } \lambda \text{ is an eigenvalue of the the transformation T indicating the change in scale of v}$$
 
-More simply, an **eigenvector of some linear transformation T** is a vector that **when T is applied** to it **does not change direction**, it just changes **scale** by the **scalar value** $\lambda$.
+More simply, an **eigenvector of some linear transformation T** is a vector that **when T is applied** to it **does not change direction (apart from reversing; it could reverse direction since that's just negative scaling)**, it just changes **scale** by the **scalar value** $\lambda$.
 
 ##### Finding Eigenvalues
 
@@ -144,3 +144,17 @@ We have A and I, we need $\lambda$.
 
 Specific example of finding an eigenvalue:
 ![finding eigenvalue](img/find-eigenvalues.png)
+
+That final equation in the above example can be factored as: $(\lambda - 8)(\lambda + 1) = 0$
+Which means we have two eigenvalues: $\lambda=8, \lambda=1$. For a any nxn matrix, you will always get $n$ eigenvalues, but they may not always be unique.
+
+Now to **find the eigenvectors**. We have our matrix (transformation) A. We have our lambdas. We have this equation:
+$$A v = \lambda v$$
+So, we plug in each lambda separately. First, 8:
+$$A v = \lambda v \implies A v = 8 v$$
+Which gives two equations: $5x + 2y = 8x$ and $9x + 2y= 8y$. Then solve the system of equations to get x and y, which is the first eigenvector.
+Then, 1:
+$$A v = \lambda v \implies A v = 1 v$$
+This produces another set of equations. Solve those equations for new x and y, which gives second eigenvector.
+
+The **eigenvalues** of the **Hamiltonian** are the energy levels of the system. In **Principal Component Analysis**, an eigenvalue is a number telling you how much **variance** there is in the data in that direction.
