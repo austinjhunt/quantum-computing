@@ -122,7 +122,7 @@ Think of a **vector** as a **line** in 2D or 3D space (or N-d) space.
 Think of a **matrix** as a **transformation** on a line or a set of lines.
 ![transform](img/transform.png)
 
-#### Eigenvalues and Eigenvectors
+#### [Eigenvalues and Eigenvectors](https://www.youtube.com/watch?v=PFDu9oVAE-g)
 
 **Eigenvalues** are a special set of **scalars** associated with a linear system of equations (i.e. a matrix equation) that are sometimes also known as **characteristic roots, characteristic values, proper values, or latent roots**. Consider a column vector we call $v$. Also consider an nxn (square) matrix $A$. Consider some scalar $\lambda$.
 
