@@ -74,7 +74,17 @@
   - Cartesian coordinates invented by Rene Descartes in 17th century are used in Euclidean space.
   - In 19th century, Ludwig Schlafi **extended** Euclidean space to include **n dimensions**
     - Schlafi also worked a lot with **polytypes**, which are **analogues of traditional Plutonic solids with more dimensions**.
-- Hilbert Spaces
+- [Hilbert Spaces](https://www.youtube.com/watch?v=7zx3MT9FgT0)
+  - Special kind of vector space.
+  - Has an **inner product operation** that satisfies certain conditions.
+    - Conjugate symmetry.
+    - Linearity with respect to second vector.
+    - Antiliniear with respect to first vector.
+    - Inner product of vector with itself must not be negative (positive definiteness)
+    - Distance formula
+  - Hilbert spaces are separable, so they contain a countable, dense subset.
+    - A countable, dense subset for hilbert space: $S = \{ \phi_n \}$
+  - Hilbert spaces are complete (no gaps).
   - Generalization of Euclidean space
   - **Any dimensions**, **infinite or finite**
   - Can be **real or complex**. Every inner product gives rise to a **norm**. Remember: **nonnegative vector length = norm of vector**
