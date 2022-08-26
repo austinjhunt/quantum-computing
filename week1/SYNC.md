@@ -9,8 +9,6 @@
 - Not taking attendance.
 - Not a lot of sympathy for late submissions.
 - elliptic curve more secure than RSA.
-- Austin Hunt, based in Greenville, work as a Digital Communications Developer for College of Charleston. Final semester. Got a BS in CompSci from CofC with a minor in math. Not familiar with quantum computing aside from its use as a buzzword. Really enjoyed linear algebra and physics in undergrad, and was intrigued by linear algebra being the language of quantum computing.
-- intros
 
 ### Discussion
 
