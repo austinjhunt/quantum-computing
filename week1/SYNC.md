@@ -37,7 +37,7 @@
 
 #### End of Class Speculative Prompt
 
-Roger Penrose, professor Ameritus of Oxford in mathematical physics, now 91. Received Nobel prize a few years ago. He and Stuart Hameroff [claimed in 1990s](https://theconversation.com/can-consciousness-be-explained-by-quantum-physics-my-research-takes-us-a-step-closer-to-finding-out-164582) that human consciousness arises due to quantum fluctuations in microtubules in neurons. Microtubules are scaffolding in neurons, they help guide protein formation, DNA formation. Issues that affect microtubules cause diseases. Connection between microtubules issues and alzheimers which degrades consciousness.
+Roger Penrose, professor Ameritus of Oxford in mathematical physics, now 91. Received 2020 Nobel prize a few years ago for black hole prediction. He and Stuart Hameroff [claimed in 1990s](https://theconversation.com/can-consciousness-be-explained-by-quantum-physics-my-research-takes-us-a-step-closer-to-finding-out-164582) that human consciousness arises due to quantum fluctuations in microtubules in neurons. Microtubules are scaffolding in neurons, they help guide protein formation, DNA formation. Issues that affect microtubules cause diseases. Connection between microtubules issues and alzheimers which degrades consciousness.
 
 - People argued against it because they thought there is no way to store and process information in quantum states. Those are void.
 - Others said you will never get quantum behavior at room temperature. However, quantum physics are at play in biology within plants, proved empirically.
